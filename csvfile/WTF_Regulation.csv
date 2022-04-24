@@ -1,0 +1,8 @@
+IDNo,RName,ApprovalDate,RDescription
+10,VOC,1989-01-01,"Volatile Organic Contaminants"
+20,IOC,1990-01-01,"Inorganic Contaminants including nitrate and arsenic"
+30,SOC,1995-01-01,"Synthetic Organic Contaminants"
+40,"Lead and Copper",1991-01-01,"Pb < 15 ppb, Cu < 1.3ppm"
+50,"Radionuclides rule",1977-01-01,"Combined radium 226/228 of 5 pCi/L"
+60,Coliform,2013-01-01,"Maximum level E-Coli contamination"
+70,Microorganism,2000-01-01,"list of acceptible levels of microorganism"

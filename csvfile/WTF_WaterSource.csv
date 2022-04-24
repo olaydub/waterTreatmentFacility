@@ -1,0 +1,8 @@
+IDNo,Location,WaterQuality,WaterQuantity
+101,Seattle,bad,1010000.0
+102,Everett,good,1020000.0
+103,Auburn,bad,1030000.0
+104,Edmonds,good,1040000.0
+105,Burien,bad,1050000.0
+106,Bellevue,good,1060000.0
+107,Bothell,Exellent,1070000.0

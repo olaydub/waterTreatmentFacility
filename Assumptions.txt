@@ -1,0 +1,7 @@
+Assumptions
+	Many to Many for Business associated with water supplies
+	Each water treatment facility has only one water source, but each water source can have multiple facilities
+	The water sources are treated routinely by the water treatment facilities and put back into the water source
+	A treatment can occur at most once a day
+	Investments are associated with Water Treatment facilities, not businesses
+	

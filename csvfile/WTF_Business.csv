@@ -1,0 +1,8 @@
+IDNo,BusinessName,Address,ContactName,StartingDate,AvgWaterConsumpPerMonth,AvgWasteGeneratedPerMonth,BusinessType
+111,"Animal Farm","123 Cherry Lane","Farmer Jane",1875-01-01,500000.0,20000.0,Agricultural
+222,"Iron Man Steel","456 Tempered Drive","John Henry",1875-01-01,25000.0,250000.0,Industrial
+333,"United Fruit","789 Panama Court","Tommy Chong",1969-04-20,69000.0,420.0,Agricultural
+444,"Weyland Yutani","USCSS Nostromo","Lt. Ripley",1979-05-25,100000000.0,100000000.0,Industrial
+555,"Tyrell Corporation","55 Sunset Blvd","Dr. Eldon Tyrell",2019-01-01,50000000.0,750000.0,Industrial
+666,Hoolie,"Silicon Valley","Gavin Belson",2015-01-01,35000.0,5000.0,Industrial
+777,Magrathea,"222 Notearth Ave",Slartibartfast,0001-01-01,999999999.0,0.0,Agricultural
